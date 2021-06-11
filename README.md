@@ -91,4 +91,4 @@ I think I'm going to remove the electronics entirely leaving the speakers and th
 - How to route cables?
 - Could I fit a microphone too?
 
-The arms are roughly 4-5mm deep and 12mm tall, this will limit the connectors I can use.
+The arms are roughly 4-5mm deep and 12mm tall, this will limit the connectors I can use. A 2.5mm jack would technically fit but the socket wouldn't. Thankfully there are some tiny coax connectors out there with amazing specs, I see MMCX recommended for its higher insertion cycle rating but minimum height of 6mm when mated so some 3D modelling required. 
