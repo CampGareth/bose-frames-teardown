@@ -35,7 +35,7 @@ The left arm contains a 0.4Wh lithium ion pouch battery, a speaker, and some mou
 
 ![Bose Frames left arm acoustic chamber](images/teardown/left-arm-acoustic-chambers.jpg)
 
-It's a little hard to see but there's three sections to the acoustic chamber. I think the long section connects to the space in front of the speaker while the small triangular section connects to the back of the speeaker. That would fit with three ear-facing speaker grilles on the bottom of the arm and one outward-facing grille roughly where that triangular section is.
+It's a little hard to see but there's three sections to the acoustic chamber. I think the long section connects to the space in front of the speaker while the small triangular section connects to the back of the speaker. That would fit with three ear-facing speaker grilles on the bottom of the arm and one outward-facing grille roughly where that triangular section is.
 
 ### Centre
 ![Bose Frames left arm hinge and ribbon cable](images/teardown/left-arm-hinge-and-ribbon-cable.jpg)
